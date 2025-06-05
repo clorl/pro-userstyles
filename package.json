@@ -1,0 +1,28 @@
+{
+  "name": "userstyles",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "build": "npx gulp build"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/clorl/pro-userstyles.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/clorl/pro-userstyles/issues"
+  },
+  "homepage": "https://github.com/clorl/pro-userstyles#readme",
+  "description": "",
+  "devDependencies": {
+    "del": "^8.0.0",
+    "gulp": "^5.0.1",
+    "gulp-concat": "^2.6.1",
+    "gulp-sort": "^2.0.0",
+    "gulp-stylus": "^3.0.1",
+    "through2": "^4.0.2"
+  }
+}
